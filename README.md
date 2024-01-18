@@ -6,7 +6,6 @@ Sejarah IOT
 Definisi IOT
 	IOT (Internet of Things) adalah segala sesuatu yang terhubung ke internet untuk mentransmisikan data (sesuai namanya Internet of Things), seperti sensor-sensor, alat pintar, monitor jarak jauh, dan sebagainya.
 
-
 2. Referensi Model IOT
         1. Physical Devices and Controller
         2. Connectivity Layer
